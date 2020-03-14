@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,500,700|Roboto+Slab:400,700|Roboto:400,500,700,900&amp;display=swap');
+
 body {
+    font-family: 'Roboto', monospace;
     margin: 0;
     padding: 0;
     position: fixed;
@@ -89,9 +92,8 @@ nav .profile-link a {
 .home-main-text {
     font-family: 'Roboto mono', monospace;
     font-size: 30px;
-    font-weight: 700px;
+    font-weight: 700;
     letter-spacing: 10px;
-    color: black;
     text-align: center;
     color: white;
 }
